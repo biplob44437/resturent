@@ -1,0 +1,293 @@
+body p span{
+    font-family: 'Roboto', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6,a {
+
+font-family: 'Rubik', sans-serif;
+
+} 
+
+.img{
+    max-width: 100%;
+}
+/* begin css*/
+.main-header{
+    background-color: tomato;
+}
+.container-fluid{
+   
+    width: 1280px;
+}
+.banner{
+    background: url(https://blogger.googleusercontent.com/img/a/AVvXsEimLWPg5wpyFQW92OiiJuH1SZRSZ4Fcq7XKV_743xDUNlmZnB1LXMQDfFWqFjLXrYeJ_tIW6GtortywYBnYLqnqytTNP_1CI_NpVpdus_cABDvLojozQM5I8vhqUlS1LBw0wexgUbsnbMTK_ndbxIZPRlYIIbt0iE5ULzsBm_5iVUrlgYkqnahnkJOW9w=s1500) no-repeat center center;
+    padding: 280px 0;
+    background-size: cover;
+}
+.defoult-btn{
+    color: rgb(0, 0, 0);
+    padding: 17px 65px;
+    display: inline-block;
+    background: rgb(7, 153, 56);
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    border-radius: 35px;
+    font-weight: 600;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    transition: .4s;
+   
+}
+.defoult-btn:hover{
+    background-color: rgb(22, 119, 175);
+    color: whitesmoke;
+   
+}
+.defoult:hover{
+    background-color: rgb(255, 253, 247);
+    color: rgb(0, 0, 0);
+}
+.defoult{
+    color: rgb(253, 253, 253);
+    padding: 17px 65px;
+    display: inline-block;
+    background: rgb(77, 46, 212);
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    border-radius: 35px;
+    font-weight: 600;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);  
+    transition: .4s;
+}
+
+/* banner-css*/
+.banner-text{
+
+}
+.banner-text h1{
+    color: #ddd;
+font-size: 107px;
+font-weight: 400;
+}
+.banner-text p{
+    color: #fff3f3;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 42px;
+margin-top: 12px;
+}
+ 
+.food-section{
+    margin-bottom: 96px;
+}
+
+.food-img{
+   float: left;
+   display: block;
+   
+}
+.food-img img{
+    max-width: 100%;
+    width: 150px;
+    
+}
+
+.food-text{
+    
+}
+.food-text h6{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.food-text h1{
+    font-size: 40px;
+}
+.food-text p{
+    font-size: 23px;
+}
+.food-t{
+    margin-top: 53px;
+margin-bottom: -100px;
+font-size: 15px;
+}
+
+/* helth css*/
+.health-section{
+    background-color: #ebcf60;
+}
+.health-text{
+    
+}
+.health-text h1{
+    margin-top: 121px;
+    font-size: 101px;
+    color: white;
+    font-weight: 400;
+}
+.health-text p{
+    color: white;
+    font-size: 20px;
+    
+}
+.helth-buttton{
+    margin-top: 59px;
+}
+.health-img{}
+.health-img img{
+    max-width: 100%;
+    width: 800px;
+    height: auto;
+}
+
+.coook-header{}
+.coook-header h1{
+    font-size: 80px;
+    font-weight: 400;
+}
+.coook-header p{
+    font-size: 16px;
+    color: #111;
+}
+.coook-img {}
+.coook-img  img{
+    max-width: 100%;
+    width: 400px;
+    padding-left: 0;
+    border-radius: 5%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    position: relative;
+}
+
+
+.img-2{
+    max-width: 100%;
+    width: 400px;
+    height:500px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.img-3{
+    max-width: 100%;
+    width: 400px;
+    height:500px; 
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+/*icecrem-section*/
+.icecrem-section{
+    background: url(https://blogger.googleusercontent.com/img/a/AVvXsEiWtK82Zp9wDwiNqAalQaMe3_9s7FXpmHV6CG3Kkjdab99Tqv1o5NpLj8QI1yZN2anCJrroJLb7xqyCtLoRIuLqpXQGreuNjqHhh-OjxnEeJr6LEbv2zhjo874ufKZfize62B3I1j4AvMA0rBVqrL18By5fXtvOH2S-0-uIhHPfMwnpE9kg3NIyYmU5zw=s1544) no-repeat center center;
+    padding: 210px  0;
+    background-size: cover;
+}
+.icecream-text{}
+.icecream-text h1{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    font-weight: 500;
+}
+.icecream-text h6{
+    color: rgb(255, 255, 255);
+}
+.icecream-text p{
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+.icecrem-button{
+    padding-left: 0px;
+}
+
+/*fresh-img */
+.fresh-img{}
+.fresh-img img {
+    max-width: 100%;
+    width: 300px;
+}
+.fresh-img2 img {
+    max-width: 100%;
+    width: 300px;
+    margin-top: 5px;
+}
+.fresh-img2-text{}
+.fresh-img2-text h3{
+    font-weight: 600;
+    margin-top: 20px;
+}
+.fresh-img2-text p{
+    color: #606060;
+    margin-top: 36px;
+    font-size: 24px;
+}
+.fresh-img2-text h6{
+    color: #111;
+    margin-top: 20px;
+}
+.fresh-food-img{}
+.fresh-food-img img{
+
+}
+/*fresh-food-2section*/
+.fresh-food-2section{
+    background: url(https://blogger.googleusercontent.com/img/a/AVvXsEjgc9lKJH6PyHEFhA0HT7PoWrVD4UWo4vZAQHWzpd_FsFqTlGuHU-9XqoAkfv4D8Pdn83nrrAVl0RQeJqZUgQKrTiu8wCg76s6jv-pviX7MPOCLLhR5AOJfdMCHJt2YSkIvHFMFg1B9X3qEMF3uC5kwamZtbE2rXlS3CiAbjZ9Fx3VelZbOqr1GjeO8cw=s1920) no-repeat center center;
+    padding:220px 0 ;
+    background-size: cover;
+}
+/*fresh-food-2section-text*/
+.fresh-food-2section-text{}
+.fresh-food-2section-text h1{
+    color: #111;
+    font-size: 80px;
+    font-weight: 400px;
+}
+.fresh-food-2section-text p{
+    color: #111;
+    font-size: 20px;
+}
+.fresh-food-2section-text h6{
+    color: #111;
+}
+
+/*contact-section*/
+.contact-section{
+    background-color: rgb(231, 208, 83);
+    padding:100px 0 ;
+}
+.contact-text{}
+.contact-text h1{
+    color: rgb(255, 249, 249);
+    font-size: 90px;
+    font-weight: 500;
+}
+.contact-text p{
+    color: rgb(255, 250, 250);
+    font-size: 20px;
+}
+.Email-t{
+    padding: 16px 197px;
+    border-radius: 20px;
+}
+.contact-btn{
+    padding-left: 0;
+    padding: 21px 210px;
+    border: 1px solid rgb(7, 153, 56);
+}
+/* footer-sectio*/
+.footer-section{
+    background-color: black;
+    padding:30px 0 ;
+}
+.footer-section{}
+.footer-section p{
+color: whitesmoke;
+}
+.footer-section h5{
+    color: whitesmoke;
+    
+}
+.footer-section span{
+color: rgb(26, 183, 223);
+font-size: 40px;
+display: inline-block;
+border-radius: 50%;
+}
